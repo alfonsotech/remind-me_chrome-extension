@@ -7,4 +7,4 @@ Instructions For Playing Remind-Me
 5. Navigate to Twitter and play the game; it will take a couple seconds to begin once you arrive at Twitter.
 6. If you are an honest user/player, you'll have no issues; but if you are not an honest user/player something that is NOT PERMANENT will happen in your browser window. Just refresh your screen at the end of the game. :-)
 
-7. Uninstall the extension, simply click on it's thumb icon in the extension toolbar (upper right hand corner of your web browser and select "Remove from Chrome"), then refresh your web browser page.
+7. To uninstall the extension, simply click on it's icon (a bandaged finger) in the extension toolbar (upper right hand corner of your web browser and select "Remove from Chrome"), then refresh your web browser page.
