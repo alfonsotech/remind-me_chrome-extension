@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Remind-Me",
+  "version": "1.0",
+  "description": "This extension reminds you of things as you try to get on Twitter.",
+  "icons": {
+    "128": "icons/icon128.png",
+    "48": "icons/icon48.png",
+    "16": "icons/icon16.png"
+  },
+  "background": {
+     "page": "popup.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*"],
+      "js": ["popup.js"]
+    }
+  ],
+  "permissions": [
+    "tabs", "https://twitter.com/*"
+  ]
+}
