@@ -8,7 +8,7 @@ I wanted a simple project to build one of my first chrome extensions and this wa
 ## Instructions For Playing Remind-Me
 
 ### Getting the Files
-0. In this window, there is a green button in the upper right-hand corner that says "Clone or Download." Click on this button, then select "Dowload" to download the code files to your computer. Navigate to where you dowloaded this on your computer and double click on the folder to unzip them. 
+0. In this window, there is a green button in the upper right-hand corner that says "Clone or download." Click on this button, then select "Download" to download the code files to your computer. Navigate to where you dowloaded this on your computer and double click on the folder to unzip them. 
 
 ### Installing the Extension In Your Chrome Browser
 1. In your Chrome web browser, open "chrome://extensions/"
